@@ -6,5 +6,5 @@
 |14.09.2020| [Matrix norms and unitary matrices.](./lectures/lecture2/lecture2.ipynb) | [Seminar 2](./seminars/seminar2/seminar2.ipynb) | |
 | 21.09.2020 | [Matrix rank and low-rank approximation. SVD.](./lectures/lecture3/lecture3.ipynb) <br> [Linear systems](./lectures/lecture4/lecture4.ipynb) |  | [HW1](./hw/hw1/hw1.ipynb) <br> (Deadline: October 24, 02:00) |
 | 28.09.2020 | [Matrix multiplication and memory hierarchy. QR decomposition and how to compute it.](./lectures/lecture5/lecture5.ipynb) | [Seminar 3](./seminars/seminar3/seminar3.ipynb) | | 
-| 05.10.2021 | | Seminar 4 <br> Seminar 5 | |
+| 05.10.2021 | | [Seminar 4](./seminars/seminar4/seminar4.ipynb) <br> Seminar 5 | |
 | 12.10.2021 | | Seminar 6 <br> Seminar 7 | |
