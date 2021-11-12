@@ -11,4 +11,4 @@
 | 19.10.2021 | [Eigenvalues and eigenvectors. Schur decomposition and how we compute it](./lectures/lecture6/lecture6.ipynb) | [Seminar 8](./seminars/seminar8/seminar8.ipynb) | |
 | 26.10.2021 | [SVD and how we compute it.](./lectures/lecture7/lecture7.ipynb) <br> [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture8/lecture8.ipynb) | | |
 | 02.11.2021 | [Introduction to iterative methods for linear systems](./lectures/lecture9/lecture9.ipynb) | [Seminar 9](./seminars/seminar9/seminar9.ipynb) | |
-| 09.11.2021 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | [Seminar 10](./seminars/seminar10/seminar10.ipynb) | |
+| 09.11.2021 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | [Seminar 10](./seminars/seminar10/seminar10.ipynb) | [HW2](./hw/hw2/hw2.ipynb) <br> (Deadline: December 14, 02:00) |
