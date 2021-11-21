@@ -13,3 +13,4 @@
 | 02.11.2021 | [Introduction to iterative methods for linear systems](./lectures/lecture9/lecture9.ipynb) | [Seminar 9](./seminars/seminar9/seminar9.ipynb) | |
 | 09.11.2021 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | [Seminar 10](./seminars/seminar10/seminar10.ipynb) | [HW2](./hw/hw2/hw2.ipynb) <br> (Deadline: December 14, 02:00) |
 | 16.11.2021 | [Iterative methods and preconditioners](./lectures/lecture11/lecture11.ipynb) | [Seminar 11](./seminars/seminar11/seminar11.ipynb) | |
+| 23.11.2021 | [Iterative methods for partial eigenvalue problem](./lectures/lecture12/lecture12.ipynb) | [Seminar 12]() | |
