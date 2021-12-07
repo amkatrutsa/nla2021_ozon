@@ -15,3 +15,4 @@
 | 16.11.2021 | [Iterative methods and preconditioners](./lectures/lecture11/lecture11.ipynb) | [Seminar 11](./seminars/seminar11/seminar11.ipynb) | |
 | 23.11.2021 | [Iterative methods for partial eigenvalue problem](./lectures/lecture12/lecture12.ipynb) | [Seminar 12](./seminars/seminar12/seminar12.ipynb) | |
 | 30.11.2021 | [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture13/lecture13.ipynb) | Seminar 13 | |
+| 07.12.2021 | [Matrix functions and intro to randomized numerical linear algebra](./lectures/lecture14/lecture14.ipynb) | Seminar 14 | |
